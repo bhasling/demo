@@ -1,6 +1,6 @@
 locale                   : "en-US"
 remote_theme: pages-themes/architect
-title                    : "Bill Hasling / Research Software Engineer"
+title                    : "Bill Hasling"
 title_separator          : "-"
 name                     : &name "Bill Hasling"
 description              : &description "personal description"
